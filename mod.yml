@@ -1,0 +1,10 @@
+title: Unhooded Roxas
+originalAuthor: [REDACTED] (The author does not want to be credited)
+game: kh2
+description: Unhoods Roxas' battle model.
+assets:
+- name: obj/B_EX390.mdlx
+  method: copy
+  source:
+  - name: B_EX390.mdlx
+  
